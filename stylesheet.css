@@ -154,7 +154,6 @@ header {
 .main1 {
   margin-left: 100px;
   margin-right: 100px;
-
   color: rgba(5, 87, 255, 1);
 }
 .main1 h1 {
@@ -165,5 +164,5 @@ header {
   margin-left: 500px;
 }
 .main1 li {
-  margin-left: 450px;
+  margin-left: 500px;
 }
