@@ -146,7 +146,7 @@ header {
   margin-right: 50px;
 }
 .main1 img {
-  width: 150px;
+  width: 200px;
   height: 300px;
   float: left;
   margin-left: 200px;
@@ -163,4 +163,7 @@ header {
 }
 .main1 p {
   margin-left: 500px;
+}
+.main1 li {
+  margin-left: 450px;
 }
